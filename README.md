@@ -1,2 +1,5 @@
 # repositorio desafio-dio1
-Primeiro desafio github
+repositorio dio desafio github
+
+links uteis
+[sintaxe basica markdown] (https://www.markdownguide.org/basic-syntax/)
